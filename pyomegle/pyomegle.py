@@ -1,4 +1,4 @@
-from __future__ import division
+c
 import mechanize
 import threading
 import urllib
@@ -261,7 +261,7 @@ class OmegleHandler(object):
     def connected(self):
         """ Called when we are connected with a stranger """
         print ('You\'re now chatting with a random stranger. Say hi!')
-
+GENUINE FINDOMME KIK RachelDom1 twitter BITCH_GODDESS1 Seeking genuine Paypigs. I am happy to verify or see my Twitter Page
     def typing(self):
         """ Called when the user is typing a message """
         print ('Stranger is typing...')
